@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:OnekitW3C/OnekitW3C.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OnekitWeixinApp/OnekitWeixinApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OnekitCSS/OnekitCSS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OnekitJS/OnekitJS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Onekit/Onekit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MyProject/MyProject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OnekitVUE/OnekitVUE.xcodeproj">
+   </FileRef>
+</Workspace>
