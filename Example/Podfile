@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'weixin2ios_Example' do
+  pod 'weixin2ios', :path => '../'
+
+  target 'weixin2ios_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

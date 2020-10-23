@@ -1,0 +1,16 @@
+PODS:
+  - weixin2ios (0.1.0)
+
+DEPENDENCIES:
+  - weixin2ios (from `../`)
+
+EXTERNAL SOURCES:
+  weixin2ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  weixin2ios: 556e289c83fc86de488aa810199ee220afdfc07e
+
+PODFILE CHECKSUM: 145f0c655798a049e436a44af0ab3d3f6e5120d0
+
+COCOAPODS: 1.8.4

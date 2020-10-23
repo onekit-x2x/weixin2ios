@@ -1,0 +1,6 @@
+framework module weixin2ios {
+  umbrella header "weixin2ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
